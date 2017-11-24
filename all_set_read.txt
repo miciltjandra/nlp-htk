@@ -914,7 +914,7 @@ D013	Seni budaya adalah karakter banga IndonEsia yang sangat khas.
 D014	Akulturasi budaya satu daErah dan daErah lainnya sangat kuat dan saling mengisi membentuk ke-BhinnEka-an IndonEsia.
 D015	EM-PE-ER ER-I melakukan gerakan sosialisasi empat pilar EM-PE-ER ER-I.
 D016	Pancasila sebagai dasar dan idEologi negara.
-D017	U-U-DE EN-ER-I Tahun 1945 sebagai konstitusi negara.
+D017	U-U-DE EN-ER-I Tahun seribu sembilan ratus empat puluh lima sebagai konstitusi negara.
 D018	EN-KA-ER-I sebagai bentuk negara.
 D019	BhinnEka Tunggal Ika sebagai semboyan negara.
 D020	Di tanah  Melayu ini akulturasi sosial dan budaya sangat tinggi terutama akulturasi budaya Melayu dan Jawa.
@@ -928,7 +928,7 @@ D027	Wayang Kulit Satria Pinilih hibur warga Kenduruan, Tuban.
 D028	Pemikiran Bung Karno dianggap sebagai sintEsis antara Islam dan nasionalisme.
 D029	Bung Karno dikenal luas sebagai seorang pemikir dan idEolog bangsa dengan pemikiran yang sangat kom-pre-hEn-sif.
 D030	Ketua PEPE Muhammadiyah Hajriyanto YE Tohari merupakan salah seorang pembicara dalam seminar itu.
-D031	Pembentukan Panitia 9 oleh Bung Karno melahirkan Piagam Jakarta dua puluh dua Juni seribu sembilan ratus empat puluh lima.
+D031	Pembentukan panitia sembilan oleh Bung Karno melahirkan Piagam Jakarta dua puluh dua Juni seribu sembilan ratus empat puluh lima.
 D032	Tulisan-tulisan Islam Bung Karno juga sangat progrEsif dan berkemajuan.
 D033	Doa menandai dimulainya acara pembukaan pagelaran wayang kulit di KabupatEn tempat Sunan Bonang dimakamkan.
 D034	Acara dilanjutkan dengan sambutan Bupati Tuban yang diwakili olEh AsistEn SEkda bidang PerEkonomian Sulistyadi.

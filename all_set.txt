@@ -914,7 +914,7 @@ D013	Seni budaya adalah karakter banga Indonesia yang sangat khas.	Seni budaya a
 D014	Akulturasi budaya satu daerah dan daerah lainnya sangat kuat dan saling mengisi membentuk ke-Bhinneka-an Indonesia.	Akulturasi budaya satu daErah dan daErah lainnya sangat kuat dan saling mengisi membentuk ke-BhinnEka-an IndonEsia.
 D015	MPR RI melakukan gerakan Sosialisasi empat pilar MPR RI.	EM-PE-ER ER-I melakukan gerakan sosialisasi empat pilar EM-PE-ER ER-I.
 D016	Pancasila sebagai dasar dan ideologi negara.	Pancasila sebagai dasar dan idEologi negara.
-D017	UUD NRI Tahun 1945 sebagai konstitusi negara.	U-U-DE EN-ER-I Tahun 1945 sebagai konstitusi negara.
+D017	UUD NRI Tahun seribu sembilan ratus empat puluh lima sebagai konstitusi negara.	U-U-DE EN-ER-I Tahun seribu sembilan ratus empat puluh lima sebagai konstitusi negara.
 D018	NKRI sebagai bentuk negara.	EN-KA-ER-I sebagai bentuk negara.
 D019	Bhinneka Tunggal Ika sebagai semboyan negara.	BhinnEka Tunggal Ika sebagai semboyan negara.
 D020	Di tanah  Melayu ini akulturasi sosial dan budaya sangat tinggi terutama akulturasi budaya Melayu dan Jawa.	Di tanah  Melayu ini akulturasi sosial dan budaya sangat tinggi terutama akulturasi budaya Melayu dan Jawa.
@@ -928,7 +928,7 @@ D027	"Wayang Kulit Satria Pinilih hibur warga Kenduruan, Tuban."	"Wayang Kulit S
 D028	Pemikiran Bung Karno dianggap sebagai sintesis antara Islam dan nasionalisme.	Pemikiran Bung Karno dianggap sebagai sintEsis antara Islam dan nasionalisme.
 D029	Bung Karno dikenal luas sebagai seorang pemikir dan ideolog bangsa dengan pemikiran yang sangat komprehensif.	Bung Karno dikenal luas sebagai seorang pemikir dan idEolog bangsa dengan pemikiran yang sangat kom-pre-hEn-sif.
 D030	Ketua PP Muhammadiyah Hajriyanto Y Tohari merupakan salah seorang pembicara dalam seminar itu.	Ketua PEPE Muhammadiyah Hajriyanto YE Tohari merupakan salah seorang pembicara dalam seminar itu.
-D031	Pembentukan Panitia 9 oleh Bung Karno melahirkan Piagam Jakarta dua puluh dua Juni seribu sembilan ratus empat puluh lima.	Pembentukan Panitia 9 oleh Bung Karno melahirkan Piagam Jakarta dua puluh dua Juni seribu sembilan ratus empat puluh lima.
+D031	Pembentukan panitia sembilan oleh Bung Karno melahirkan Piagam Jakarta dua puluh dua Juni seribu sembilan ratus empat puluh lima.	Pembentukan panitia sembilan oleh Bung Karno melahirkan Piagam Jakarta dua puluh dua Juni seribu sembilan ratus empat puluh lima.
 D032	Tulisan-tulisan Islam Bung Karno juga sangat progresif dan berkemajuan.	Tulisan-tulisan Islam Bung Karno juga sangat progrEsif dan berkemajuan.
 D033	Doa menandai dimulainya acara pembukaan pagelaran wayang kulit di Kabupaten tempat Sunan Bonang dimakamkan.	Doa menandai dimulainya acara pembukaan pagelaran wayang kulit di KabupatEn tempat Sunan Bonang dimakamkan.
 D034	Acara dilanjutkan dengan Sambutan Bupati Tuban yang diwakili oleh Asisten Sekda bidang Perekonomian Sulistyadi.	Acara dilanjutkan dengan sambutan Bupati Tuban yang diwakili olEh AsistEn SEkda bidang PerEkonomian Sulistyadi.

@@ -34,7 +34,7 @@ A033	akhir bulan lalu bangau pergi ke rumah saudaranya di tarakan
 A034	akibat longsornya danau itu ahmad azis tewas
 A035	akibatnya bioskop juga mati ucap gunawan
 A036	akibatnya bagian perut siswi sltp itu robek
-A037	akibatnya daerah-daerah aliran sungai dan danau kondisinya kian kritis
+A037	akibatnya daerah daerah aliran sungai dan danau kondisinya kian kritis
 A038	aksi pengerahan massa ke ibu kota dimotori ahmad fauzi alias harun zein
 A039	akte kelahiran anak saya bisa selesai berapa hari lagi tanya istri gofar
 A040	aktifkan alarmnya ujar ahmad taher
@@ -93,7 +93,7 @@ A092	apabila abdurrahman wahid ngotot bertahan kami khawatir akan terjadi kudeta
 A093	apabila profil jatuh tempo obligasi pemerintah tidak direstrukturisasi
 A094	apakah ada berkas abdul muhyi atau atasannya yang kurang
 A095	apakah ada masalah antara ade budi dan ade effendi
-A096	apakah ada nomor khusus atau nomor rahasia kapolres jateng 
+A096	apakah ada nomor khusus atau nomor rahasia kapolres jateng
 A097	apakah ada tarif selain flat rate
 A098	apakah akte kelahiran abbas hadisunyoto sudah selesai
 A099	apakah akte kelahiran anak saya bisa diambil hari ini juga
@@ -125,7 +125,7 @@ A124	apakah ktp saya sudah selesai
 A125	apakah masih ada biaya-biaya lainnya
 A126	apakah mungkin biaya percakapan dibebankan ke masing-masing orang
 A127	apakah nama anda zainab masyita
-A128	apakah negara atau swasta yang harus bertanggung jawab 
+A128	apakah negara atau swasta yang harus bertanggung jawab
 A129	apakah npwp saya bisa diambil selasa minggu ini untuk ngurus sekolah anak di palembang sini
 A130	apakah pbb saya sudah rampung
 A131	apakah perlu surat kuasa bagi warga di desa pantai harapan
@@ -298,7 +298,7 @@ A297	dia mungkin alpa emosi khilaf kita tidak tahu ujar amien
 A298	dia tampaknya juga mengerem lebih cepat dari dugaan saya
 A299	diakui gusmardi memang akan mempengaruhi volume dan nilai hasil ekspor
 A300	diakui ichlasul dialog soal indorayon belum capai kata sepakat
-B001	diakui wahid dia menyodorkan bukti yang sangat kuat diakui wahid dia menyodorkan bukti yang sangat kuat
+B001	diakui wahid dia menyodorkan bukti yang sangat kuat
 B002	dialog nyaris ricuh hingga akhirnya dialog gagal dilakukan
 B003	didampingi ibunya rosbiri rining bangau mampu berjalan biasa
 B004	diet ia jaga dengan menu utama ayam ikan dan sayur-mayur
@@ -343,7 +343,7 @@ B042	gemerlap dengan kilauan sinar lampu
 B043	geografisnya sulit dijangkau ujar fuad aznan
 B044	gimana cara bikin pbb
 B045	gimana kabarnya mas
-B046	gimana statusnya istri almarhum taufan 
+B046	gimana statusnya istri almarhum taufan
 B047	gintings juga menyayangkan sikap gubernur diy yogya
 B048	gol bunuh diri yang spektakuler dari grace simon menyebabkan timnya kalah empat nol
 B049	gol luar biasa darinya menjadikan skor dua enam
@@ -617,7 +617,7 @@ C016	di jepang sabut kelapa asal blitar digunakan sebagai media tanam
 C017	di kota mana saja saya bisa mendapatkan layanan teleconference
 C018	di lain fihak di luar frankfurt juga terjadi kerusuhan
 C019	di lapangan golf taman impian jaya ancol
-C020	di mana di dalam  pesawat antara lain dipandu oleh radar
+C020	di mana di dalam pesawat antara lain dipandu oleh radar
 C021	di mana sistem gsm menguasai mayoritas pasar selulernya
 C022	di sepanjang blora hingga bojonegoro
 C023	di situ chrisye membawakan dari kala sang surya tenggelam
@@ -831,7 +831,7 @@ C230	kan kacau ini kata zarkasih mengutip gus dur
 C231	kan lucu itu ujar sinyo yang kerap guyonan
 C232	kantor cabang yang mana yang merupakan kantor cabang telekomunikasi
 C233	kantor tabloid bijak diserbu gerombolan kaos coklat bergaris
-C234	kapan sampainya  tanya fauzi alvi yasin
+C234	kapan sampainya tanya fauzi alvi yasin
 C235	kapan sepuluh hgb saya selesai
 C236	kapan shm saya selesai tanya fauzi wibowo
 C237	kapasitas angkut kapal reguler tawau-nunukan terbatas
@@ -901,7 +901,7 @@ C300	kejaksaan agung diimbau ajukan kasus abepura ke pengadilan ham
 D001	prof dr jimly asshiddiqie terpilih sebagai ketua umum ikatan cendekiawan muslim indonesia atau icmi
 D002	jimly asshiddiqie juga merupakan ketua dewan kehormatan penyelenggara pemilu atau dkpp
 D003	pemilihan ketua umum dilakukan secara musyawarah mufakat di antara tujuh formatur yang terpilih
-D004	ketujuh formatur itu adalah ilham habibie jimly asshiddiqie zulkifli hasan priyo budi santoso muhammad nuh herry  suhardiyanto dan hatta rajasa
+D004	ketujuh formatur itu adalah ilham habibie jimly asshiddiqie zulkifli hasan priyo budi santoso muhammad nuh herry suhardiyanto dan hatta rajasa
 D005	pemilihan diawali dengan usulan nama dari peserta muktamar orwil orda orsat yang dibawa ke majelis permusyawaratan muktamar
 D006	anggota majelis permusyawaratan muktamar adalah presidium demisioner ketua dewan penasihat ketua dewan pakar
 D007	dengan icmi indonesia sebagai model islam yang rahmatan lil alamin menjadi model bagi negara-negara lain
@@ -914,10 +914,10 @@ D013	seni budaya adalah karakter banga indonesia yang sangat khas
 D014	akulturasi budaya satu daerah dan daerah lainnya sangat kuat dan saling mengisi membentuk ke-bhinneka-an indonesia
 D015	mpr ri melakukan gerakan sosialisasi empat pilar mpr ri
 D016	pancasila sebagai dasar dan ideologi negara
-D017	uud nri tahun 1945 sebagai konstitusi negara
+D017	uud nri tahun seribu sembilan ratus empat puluh lima sebagai konstitusi negara
 D018	nkri sebagai bentuk negara
 D019	bhinneka tunggal ika sebagai semboyan negara
-D020	di tanah  melayu ini akulturasi sosial dan budaya sangat tinggi terutama akulturasi budaya melayu dan jawa
+D020	di tanah melayu ini akulturasi sosial dan budaya sangat tinggi terutama akulturasi budaya melayu dan jawa
 D021	menurut raman desa bayas jaya terdiri dari lima dusun yakni dusun jasa usaha dusun jasa tani dusun jasa karya dusun jaya karya dan dusun jasa rukun
 D022	bahkan sri kresna sendiri berkoalisi dengan para dewa untuk menggagalkan rencana semar
 D023	mau tidak mau para pandawa mengikuti keinginan sri kresna
@@ -928,7 +928,7 @@ D027	wayang kulit satria pinilih hibur warga kenduruan tuban
 D028	pemikiran bung karno dianggap sebagai sintesis antara islam dan nasionalisme
 D029	bung karno dikenal luas sebagai seorang pemikir dan ideolog bangsa dengan pemikiran yang sangat komprehensif
 D030	ketua pp muhammadiyah hajriyanto y tohari merupakan salah seorang pembicara dalam seminar itu
-D031	pembentukan panitia 9 oleh bung karno melahirkan piagam jakarta dua puluh dua juni seribu sembilan ratus empat puluh lima
+D031	pembentukan panitia sembilan oleh bung karno melahirkan piagam jakarta dua puluh dua juni seribu sembilan ratus empat puluh lima
 D032	tulisan-tulisan islam bung karno juga sangat progresif dan berkemajuan
 D033	doa menandai dimulainya acara pembukaan pagelaran wayang kulit di kabupaten tempat sunan bonang dimakamkan
 D034	acara dilanjutkan dengan sambutan bupati tuban yang diwakili oleh asisten sekda bidang perekonomian sulistyadi
@@ -938,8 +938,8 @@ D037	lakon satria pinilih mengisahkan tentang negeri kayangan yang sedang diland
 D038	pagelaran yang dipenuhi sesak oleh penonton ini juga dihadiri oleh didik mukrianto pimpinan fraksi partai demokrat mpr ri
 D039	turut hadir wihadi wiyanto pimpinan fraksi partai gerindra mpr ri kapolres tuban skpd dan forkompinda tuban dan para camat di kabupaten tuban
 D040	dr hc zulkifli hasan se mm sebagai ketua mpr ri dari fraksi partai amanat nasional
-D041	h mahyudin st mm menjabat sebagai wakil ketua mpr ri dari fraksi golkar
-D042	evert ernest  mangindaan sip sebagai wakil ketua mpr ri fraksi partai demokrat
+D041	h mahyudin st mm menjabat sebagai wakil ketua mpr ri dari fraksi partai golkar
+D042	evert ernest mangindaan sip sebagai wakil ketua mpr ri fraksi partai demokrat
 D043	dr hm hidayat nur wahid ma merupakan wakil ketua mpr ri dan berasal dari fraksi partai keadilan sejahtera
 D044	meningkatnya hubungan antar parlemen akan mendukung kerja sama hubungan antar pemerintah
 D045	dr hc oesman sapta merupakan wakil ketua mpr ri kelompok dpd di mpr ri
@@ -999,7 +999,7 @@ D098	ujar dinas lalu lintas kepolisian di ungaran jam dua puluh tiga tadi malam
 D099	uskup gereja katolik leo agung membaptis bayi hino biohanis
 D100	walaupun gus dur ngawur gus dur nggak mungkin mau mundur
 D101	abdurrahman wahid rencananya akan berangkat ke as jam lima tepat esok sore
-D102	acara selasa sore dan rabu sore jam lima pas yaitu khazanah wayang 
+D102	acara selasa sore dan rabu sore jam lima pas yaitu khazanah wayang
 D103	ada penyuluhan yaitu di posyandu selasa pagi
 D104	ahli pengetahuan tentang psikotropika yaitu kosgoro yang dikenal sebagai mike
 D105	amazon cideng masio panas raya itu nama-nama sungai
@@ -1260,7 +1260,7 @@ E059	menurut who ini menyangkut kunjungan howard ke ugm
 E060	menurut zohra soebowo musa menyewa mobil slamet prawiro
 E061	menurut zuheir mereka enggak percaya
 E062	menurut zumrotin mereka mulai khawatir
-E063	menutup pidatonya soal harga kios yang mencapai ratusan juta rupiah 
+E063	menutup pidatonya soal harga kios yang mencapai ratusan juta rupiah
 E064	menyadari bahwa bangau adalah korban kecelakaan yang sudah dimakamkan
 E065	menyesalkan penahanan suaminya yang dinilai tidak memenuhi mekanisme yuridis
 E066	menyiapkan kue atau ke pasar membeli pakaian baru
@@ -1410,7 +1410,7 @@ E209	apakah yang di dekat griya supermarket
 E210	bahkan detail pengucapan nama tokohnya pun keliru protes bambang mei finarwanto
 E211	bahkan sudah dituangkan dalam bentuk platform dan cetak biru
 E212	nakhwarian berbadan kurus dengan keluhan seluruh giginya sakit disinyalir akibat defisiensi kalsium
-E213	pemerintah berusaha menambah simpanan baik dalam bentuk  cadangan devisa aset tambahan atau dana tunai tambahan
+E213	pemerintah berusaha menambah simpanan baik dalam bentuk cadangan devisa aset tambahan atau dana tunai tambahan
 E214	krisis berdampak secara intern maupun ekstern baik swasta maupun negeri
 E215	orang vietnam sangat menjaga nilai-nilai leluhur baik itu nilai tradisi atau agama
 E216	dia menggandrungi celana atau rok dengan merek levis yang sangat terkenal itu
@@ -2116,7 +2116,7 @@ H015	sebaliknya korsel tetap ngotot untuk mengejar
 H016	sebelas siang tepat ada ogoh-ogoh
 H017	sebelum fajar menyingsing di samping hotel amboina sang eyang putri menunggu
 H018	sebelum grup-grup seni dan aktor-aktor cerdas bisa tumbuh
-H019	sebelum periode cacuk makin krisisyozi yakin dengan wewenang menkeu
+H019	sebelum periode cacuk makin krisis yozi yakin dengan wewenang menkeu
 H020	sebelumnya harus dikonfirmasikan ke bulog dulu
 H021	sebelumnya tempo juga berkali-kali gagal menghubungi telpon genggam fariz tersebut
 H022	sebenarnya rem-rem itu sudah diberi pengaman tetapi mau gimana lagi
@@ -2333,7 +2333,7 @@ H232	tahun uang palsu dimanfaatkan oleh obligor
 H233	tak hanya kafe yang diuntungkan malam itu tambah neiss
 H234	tak menyentuh angka lima belas tambah ical
 H235	tak urung dia risau menghadapi hari esok tambah kwik
-H236	takut tsunami warga mengungsi ke bukit
+H236	takut tsunami warga mengungsi ke bukit di bualemo
 H237	tampak mustaine cuma komat-kamit
 H238	tamzil dan balfas sudah dibebaskan tambah wolfensohn
 H239	tanah ikut hanyut ke danau yang airnya berwarna hijau jernih
@@ -2478,7 +2478,7 @@ I077	tutup hanya pintu utama saja lalu telpon hansip
 I078	tutup jendela lalu segeralah telpon kantor polisi
 I079	joggingnya cukup enam puluh menit saja
 I080	aku sudah memanggil gojek sejak jam lima pagi
-I081	filmnya berlangsung  selama sembilan puluh menit
+I081	filmnya berlangsung selama sembilan puluh menit
 I082	huuu penonton kecewa
 I083	kaesang membuka cafe di bilangan thamrin
 I084	percakapan antara kelima tokoh yang oleh tan malaka dijuluki para pendakwa modern
@@ -2496,7 +2496,7 @@ I095	uang yang dipakai bob hasan ugiek membantah nggak
 I096	ubah lagi formatnya tujuh kali top volume ujar ayip
 I097	ucapnya sambil menyebutkan contoh-contoh serupa yang terjadi di negara-negara lain
 I098	udah ya aku menang tujuh nol ucap albert bertanya pada zaini
-I099	ujar sumber tersebut yang mengklaim pelakunya adalah anggota gam 
+I099	ujar sumber tersebut yang mengklaim pelakunya adalah anggota gam
 I100	ujar wayn menanggapi keberhasilannya menyamakan kedudukan
 I101	ujarnya seraya menunjukkan biji-biji kakao yang kering dan berkeriput
 I102	ukhman mengidap penyakit penyempitan pembuluh darah
@@ -2602,7 +2602,7 @@ I201	polda metro jaya menangkap gerombolan pelaku penipuan sms mama minta pulsa
 I202	juru bicara kementerian luar negeri kemlu ri dijabat oleh arrmanatha nasir
 I203	anggota komisi sepuluh dpr ri menegaskan dualisme rezim persepakbolaan tanah air harus dicarikan jalan keluarnya
 I204	persaingan antara valentino rossi dan marc marquez di sirkuit sepang malaysia
-I205	bencana asap kebakaran hutan dan lahan atau karhutla di indonesia berdaampak pada tiga perempat wilayah nusantara   
+I205	bencana asap kebakaran hutan dan lahan atau karhutla di indonesia berdaampak pada tiga perempat wilayah nusantara 
 I206	gedung putih mengecam keras karpet merah selamat datang dari rusia saat menyambut kedatangan presiden suriah bashar al-assad
 I207	malaysia keberatan dengan pembangunan di pulau di wilayah sengketa laut china selatan oleh beijing
 I208	panitia penyelenggara ibadah haji atau ppih arab saudi mengidentifikasi jamaah haji indonesia yang wafat karena peristiwa mina
@@ -2675,7 +2675,7 @@ I274	presiden jokowi meresmikan pengeboran perdana proyek pembangunan mass rapid
 I275	ahmed mohamed dilaporkan sekolahnya ke polisi karena membawa benda diduga bom
 I276	crane proyek perluasan kompleks masjidil haram roboh
 I277	komjen buwas dicopot dari bareskrim
-I278	aylan termasuk satu dari jutaan imigran asal suriah yang mencari suaka ke eropa 
+I278	aylan termasuk satu dari jutaan imigran asal suriah yang mencari suaka ke eropa
 I279	pemprov dki jakarta menggusur kampung pulo
 I280	menteri perencanaan pembangunan nasional andrinof chaniago digantikan sofyan djalil
 I281	musim panas berkepanjangan ditambah fenomena el nino membuat kebakaran terjadi hingga oktober
@@ -2695,7 +2695,7 @@ I294	priyo terbukti membunuh dan merampas barang milik deudeuh
 I295	kopilot germanwings sengaja menjatuhkan pesawat
 I296	sultan dalam sabdatama tak menghendaki orang luar keraton ikut campur dalam suksesi takhta
 I297	jokowi melantik taufiequrachman ruki untuk menggantikan abraham samad
-I298	hakim sarpin rizaldi menggugurkan status tersangka komjen budi gunawan 
+I298	hakim sarpin rizaldi menggugurkan status tersangka komjen budi gunawan
 I299	maraknya begal motor meresahkan warga jabodetabek
 I300	wakil ketua kpk ditangkap bareskrim polri
 J001	kasus kontroversial pada era buwas adalah penyidikan mantan wakil menteri hukum denny indrayana
@@ -2704,43 +2704,43 @@ J003	assalamu'alaikum warrahmatullahi wabarakatuh
 J004	salam sejahtera bagi kita
 J005	pimpinan dan anggota dewan perwakilan rakyat republik indonesia yang terhormat
 J006	hadirin dan sidang yang kami muliakan
-J007	puji syukur kita panjatkan kehadirat tuhan yang maha kuasa 
-J008	karena atas rahmat dan karunia-nya kita masih diberi kesempatan dan kekuatan untuk melanjutkan karya dan pengabdian kita kepada bangsa dan negara tercinta 
+J007	puji syukur kita panjatkan kehadirat tuhan yang maha kuasa
+J008	karena atas rahmat dan karunia-nya kita masih diberi kesempatan dan kekuatan untuk melanjutkan karya dan pengabdian kita kepada bangsa dan negara tercinta
 J009	pada hari yang berbahagia ini kita dapat hadir dalam rapat paripurna dpr ri
-J010	sebagaimana diketahui bersama bahwa rancangan undang-undang tersebut telah diselesaikan pembahasannya 
+J010	sebagaimana diketahui bersama bahwa rancangan undang-undang tersebut telah diselesaikan pembahasannya
 J012	hadirin dan sidang yang kami muliakan
-J013	dengan demikian kuorum telah tercapai 
-J014	dengan mengucap bismillahirahmanirrahim  perkenankanlah kami selaku pimpinan dewan membuka rapat paripurna dpr ri 
+J013	dengan demikian kuorum telah tercapai
+J014	dengan mengucap bismillahirahmanirrahim perkenankanlah kami selaku pimpinan dewan membuka rapat paripurna dpr ri
 J015	masa sidang pertama tahun sidang dua ribu lima belas dua ribu enam belas
 J016	sidang kami nyatakan terbuka untuk umum
 J017	hadirin yang kami hormati
-J019	hadirin kami persilakan duduk kembali 
+J019	hadirin kami persilakan duduk kembali
 J020	sidang dewan yang kami hormati
-J021	hasil pembahasan fit and proper test calon anggota komisi yudisial 
-J022	pendapat fraksi-fraksi dan pengambilan keputusan terhadap dua ruu 
+J021	hasil pembahasan fit and proper test calon anggota komisi yudisial
+J022	pendapat fraksi-fraksi dan pengambilan keputusan terhadap dua ruu
 J023	sekarang kami ingin menanyakan kepada sidang dewan yang terhormat apakah acara tersebut dapat disetujui
 J024	belum-belum
 J025	baik silakan yang interupsi
-J026	interupsi pimpinan 
+J026	interupsi pimpinan
 J027	terima kasih pimpinan
-J028	baik tentunya pak misbakhun dapat kami jawab yang acara pertama 
+J028	baik tentunya pak misbakhun dapat kami jawab yang acara pertama
 J029	itu memang ada didalam surat yang ditujukan kepada pimpinan dewan
-J030	nanti akan saya bacakan 
+J030	nanti akan saya bacakan
 J031	untuk itu kami sampaikan kepada paripurna apakah draf ini bisa disetujui atau tidak
 J032	pimpinan yang saya hormati
 J034	sebentar pak misbakun bagaimana kalau acara yang pertama ini kita setujui dulu
-J035	tentunya waktu jauh lebih efisien 
+J035	tentunya waktu jauh lebih efisien
 J036	nanti masalah debat dan lain sebagainya mari kita selesaikan
 J037	baik bapak ibu sekalian yang saya hormati
-J038	sebelum memulai acara pertama perlu kami beritahukan bahwa pimpinan dewan telah menerima keputusan presiden republik indonesia 
+J038	sebelum memulai acara pertama perlu kami beritahukan bahwa pimpinan dewan telah menerima keputusan presiden republik indonesia
 J042	petikan keputusan presiden ini disampaikan kepada yang bersangkutan untuk dipergunakan sebagaimana mestinya
 J043	ditetapkan di jakarta pada tanggal tiga puluh satu agustus dua ribu lima belas
 J044	rohaniwan dipersilakan menempati tempat yang telah ditentukan
-J046	saudara wajib bersumpah menurut agama islam 
-J047	apakah saudara bersedia 
+J046	saudara wajib bersumpah menurut agama islam
+J047	apakah saudara bersedia
 J048	patut saya ingatkan bahwa sumpah yang akan saudara ucapkan mengandung tanggung jawab terhadap bangsa dan negara republik indonesia
-J049	tanggung jawab memelihara dan menyelamatkan pancasila dan undang-undang dasar negara republik indonesia 
-J051	janji kepada manusia yang harus ditepati dengan segala keikhlasan dan kejujuran 
+J049	tanggung jawab memelihara dan menyelamatkan pancasila dan undang-undang dasar negara republik indonesia
+J051	janji kepada manusia yang harus ditepati dengan segala keikhlasan dan kejujuran
 J052	saya harap saudara mengikuti dan menirukan kata-kata saya dengan hikmat
 J054	sidang dewan yang kami hormati
 J055	marilah kita memasuki acara pertama rapat paripurna dewan hari ini
@@ -2749,42 +2749,42 @@ J057	pembahasan pembicaraan tingkat satu tersebut berlangsung secara kritis
 J058	wallahuma fiq ilia aquamitoriq
 J059	wassalamu'alaikum warrahmatullahi wabarakatuh terima kasih semuanya
 J060	terima kasih kami sampaikan kepada saudara hanafi rais
-J061	berikutnya  kami persilakan saudara menteri hukum dan ham ri untuk menyampaikan pendapat akhir mewakili presiden
-J062	kami persilakan 
-J065	siapa yang mengubah jadwal bamus yang tadinya perubahan tata tertib dpr ri 
+J061	berikutnya kami persilakan saudara menteri hukum dan ham ri untuk menyampaikan pendapat akhir mewakili presiden
+J062	kami persilakan
+J065	siapa yang mengubah jadwal bamus yang tadinya perubahan tata tertib dpr ri
 J066	interupsi ketua yandri ketua
-J067	saya menyambung dari saudaraku misbakhun kalau memang sudah disetujui ya sudah 
-J068	tetapi mungkin jalan tengah saya usul ketua 
+J067	saya menyambung dari saudaraku misbakhun kalau memang sudah disetujui ya sudah
+J068	tetapi mungkin jalan tengah saya usul ketua
 J070	saya kira itu jalan tengahnya ketua
-J071	interupsi pimpinan arwani pimpinan 
+J071	interupsi pimpinan arwani pimpinan
 J072	saya kira terkait dengan agenda yang tiba-tiba dibatalkan
 J074	itu saja terima kasih
 J075	silakan yang lain
 J076	baik terima kasih ketua
-J077	pimpinan berarti yang mengubah jadwal bamus adalah pimpinan 
+J077	pimpinan berarti yang mengubah jadwal bamus adalah pimpinan
 J078	saya ingin jawaban saya tidak ingin menanyakan substansinya
-J079	saya ingin menanyakan siapa yang mengubah jadwal bamus 
+J079	saya ingin menanyakan siapa yang mengubah jadwal bamus
 J080	saya tidak berbicara tentang substansi
 J081	saya mau jawaban yang clear dan jelas
-J082	itu catatannya  terima kasih
+J082	itu catatannya terima kasih
 J083	baik kami berikan keterangan bahwa seperti yang disampaikan bapak pimpinan
 J084	memang akan kami sampaikan kepadanya gilirannya nanti
-J085	tetapi sekarang pun tidak apa-apa supaya kita bisa mengerti posisinya 
+J085	tetapi sekarang pun tidak apa-apa supaya kita bisa mengerti posisinya
 J086	usulan dari baleg tentunya akan kami tanyakan kepada seluruh dewan yang terhormat
-J087	pimpinan bamus sudah memutuskan agenda itu ada di dalam rapat paripurna hari ini 
+J087	pimpinan bamus sudah memutuskan agenda itu ada di dalam rapat paripurna hari ini
 J088	kenapa kemudian tidak ada di dalam jadwal
-J089	minta tolong  tolong dimasukan dulu ke dalam jadwal bahwa ada pembahasan masalah perubahan tata tertib yang kedua
-J090	karena apa 
-J091	pimpinan seenaknya mengubah hasil bamus 
+J089	minta tolong tolong dimasukan dulu ke dalam jadwal bahwa ada pembahasan masalah perubahan tata tertib yang kedua
+J090	karena apa
+J091	pimpinan seenaknya mengubah hasil bamus
 J092	preseden yang akan terjadi yang akan datang bisa saja pimpinan itu mengubah seenaknya keinginan
 J093	padahal bamus itu adalah kesepakatan semua fraksi-fraksi yang ada
 J094	pimpinan tolong dijawab dulu pimpinan
 J095	mohon izin bapak agus
-J096	begini penjelasannya kira-kira begini 
+J096	begini penjelasannya kira-kira begini
 J097	oke baik
 J098	bapak dan ibu sekalian yang saya hormati
-J099	pimpinan tolong didengar interupsi pimpinan 
-J100	seharusnya kalau kita ingin meminta persetujuan harus ada dulu di dalam rumusan yang akan kita bahas 
+J099	pimpinan tolong didengar interupsi pimpinan
+J100	seharusnya kalau kita ingin meminta persetujuan harus ada dulu di dalam rumusan yang akan kita bahas
 J101	selanjutnya untuk mempersingkat waktu marilah kita memasuki acara rapat paripurna dewan hari ini
 J102	selamat sore dan salam sejahtera untuk kita semua
 J103	om swasti atu
@@ -2792,32 +2792,32 @@ J104	yang kami hormati pimpinan dewan perwakilan rakyat republik indonesia
 J105	yang kami hormati bapak dan ibu anggota dewan perwakilan rakyat republik indonesia
 J106	yang kami hormati calon anggota komisi yudisial
 J107	dan yang kami hormati bapak dan ibu serta rekan-rekan wartawan yang berbahagia
-J108	pertama-tama marilah kita memanjatkan puji dan syukur kehadirat tuhan yang maha esa 
+J108	pertama-tama marilah kita memanjatkan puji dan syukur kehadirat tuhan yang maha esa
 J109	karena atas rahmat dan perkenan-nya maka kita dapat menghadiri rapat paripurna
-J110	dalam keadaan sehat wal'afiat dalam rangka menyampaikan laporan 
-J111	selanjutnya untuk menyetujui atau tidak menyetujui sesuai peraturan perundang-undangan 
+J110	dalam keadaan sehat wal'afiat dalam rangka menyampaikan laporan
+J111	selanjutnya untuk menyetujui atau tidak menyetujui sesuai peraturan perundang-undangan
 J112	rapat pleno komisi tiga dpr ri yang bersifat terbuka dan terbuka untuk umum
 J113	bapak ibu pimpinan para hadirin serta rekan-rekan wartawan yang kami hormati
 J114	pada hari ini selasa tanggal dua puluh oktober dua ribu lima belas tepatnya pukul sepuluh tiga puluh wib
-J115	komisi iii dpr ri melakukan rapat pleno dalam pengambilan keputusan terhadap calon komisi yudisial 
-J116	pengambilan keputusan ini dilakukan dengan cara musyawarah dan mufakat dengan meminta pandangan fraksi-fraksi di komisi tiga dpr ri 
-J117	berdasarkan hasil musyawarah dan mufakat tersebut komisi iii dpr ri telah memberikan persetujuannya 
+J115	komisi iii dpr ri melakukan rapat pleno dalam pengambilan keputusan terhadap calon komisi yudisial
+J116	pengambilan keputusan ini dilakukan dengan cara musyawarah dan mufakat dengan meminta pandangan fraksi-fraksi di komisi tiga dpr ri
+J117	berdasarkan hasil musyawarah dan mufakat tersebut komisi iii dpr ri telah memberikan persetujuannya
 J118	demikian kami ucapkan terima kasih
 J119	usikum wanafsi bitaqwallahi
 J120	asholatu wasalamu ala mursalin
-J121	waala alihi wasohbihi ajmain 
+J121	waala alihi wasohbihi ajmain
 J122	amiin
 J123	kami badan legislasi sudah membentuk panja
 J124	dan sudah membahas peraturan bersama ini dengan seksama
-J125	dan drafnya sudah ada di dalam bapak-ibu semuanya 
+J125	dan drafnya sudah ada di dalam bapak-ibu semuanya
 J126	kalau disetujui kami tidak usah membacakan seluruh isinya
 J127	selanjutnya perkenankan kami menyerahkan rancangan peraturan bersama dpr dan bpk
 J128	menyiapkan dan menyusun naskah akademik
-J129	mengkoordinasikan seluruh penyusunan naskah akademik 
-J130	mengambil alih penyusunan naskah akademik dan rancangan undang-undang 
-J131	mengubah ketentuan pasal enam puluh enam 
+J129	mengkoordinasikan seluruh penyusunan naskah akademik
+J130	mengambil alih penyusunan naskah akademik dan rancangan undang-undang
+J131	mengubah ketentuan pasal enam puluh enam
 J132	menyesuaikan pasal atau huruf yang menjadi rujukannya
-J133	demikianlah usulan-usulan perubahan diantaranya yang tadi sudah kami bacakan 
+J133	demikianlah usulan-usulan perubahan diantaranya yang tadi sudah kami bacakan
 J134	demikianlah laporan kami terima kasih atas perhatiannya
 J135	belum ketua tidak
 J136	baik dengan catatan yang ada di pak azis
@@ -2827,33 +2827,33 @@ J139	tolong ketua rapat memegang tata tertib dan mekanisme dalam memimpin rapat
 J140	kalau tidak diganti saja
 J141	pak ecky mohon maaf pak ecky
 J142	ada kesalahfahaman pak ecky
-J143	ini keliru nih ya 
+J143	ini keliru nih ya
 J144	biar kita tidak bertele-tele ini keliru
 J145	saya sama sekali bukan bikin panas ketua
 J146	sebentar dulu ini jangan jadi kemana-mana
 J147	ini setuju di rubah atau tidak
-J148	kita voting bahwa ada anggota yang tidak setuju dengan usulan perubahan 
-J149	memang semua belum baca pak 
+J148	kita voting bahwa ada anggota yang tidak setuju dengan usulan perubahan
+J149	memang semua belum baca pak
 J150	wong saya juga belum baca
 J151	sehingga tidak perlu di putar-putar kita voting saja
 J152	baik sesuai dengan mekanisme yang ada
-J153	tentunya sebelum memasuki voting kita memasuki lobby dulu 
+J153	tentunya sebelum memasuki voting kita memasuki lobby dulu
 J154	izin ketua
-J155	kalau usul saya tidak perlu di skors kita langsung saja 
-J156	kalau memang misalkan ada anggota yang tidak setuju kita hormati 
-J157	jadi tidak perlu buang waktu 
+J155	kalau usul saya tidak perlu di skors kita langsung saja
+J156	kalau memang misalkan ada anggota yang tidak setuju kita hormati
+J157	jadi tidak perlu buang waktu
 J158	kita libatkan semua yang hadir
-J159	toh kalaupun misalkan mengatas namakan fraksi juga dari sisi yang hadir tidak  terlalu banyak ketua 
-J160	jadi usul saya langsung saja kita ambil keputusan 
+J159	toh kalaupun misalkan mengatas namakan fraksi juga dari sisi yang hadir tidak terlalu banyak ketua
+J160	jadi usul saya langsung saja kita ambil keputusan
 J161	yang tidak setuju silakan berdiri dan nanti yang setuju juga dimintai pendapatnya
-J162	usul saya begitu ketua untuk menghemat waktu 
+J162	usul saya begitu ketua untuk menghemat waktu
 J163	silakan yang lain ada usul lain
-J164	kalau tidak ke depan sajalah 
-J165	kita melakukan lobby di sini saja tidak usah lama-lama 
+J164	kalau tidak ke depan sajalah
+J165	kita melakukan lobby di sini saja tidak usah lama-lama
 J166	silakan sementara rapat kita skors sebentar saja
 J167	baik bapak ibu sekalian yang saya hormati skors rapat dicabut
-J168	setelah kita melaksanakan lobby dan kita memang tidak ada titik temu 
-J169	kita akan melaksanakan voting 
+J168	setelah kita melaksanakan lobby dan kita memang tidak ada titik temu
+J169	kita akan melaksanakan voting
 J170	untuk itu kita persilakan sekjen untuk mempersiapkan voting
 J171	oke dihitung terlebih dahulu
 J172	hanya ingin mengomentari hasil apa yang kita hadapi hari ini tentang baleg
@@ -2861,54 +2861,54 @@ J173	pimpinan yang kami hormati dan kami banggakan
 J174	seluruh peserta rapat paripurna yang saya banggakan
 J175	menyangkut draft perubahan tata tertib dewan itu adalah draft rancangan undang-undang
 J176	tatib ini sudah dibicarakan beberapa kali di badan legislasi
-J177	ada pak sareh mulyono dari fraksi partai gerindra 
+J177	ada pak sareh mulyono dari fraksi partai gerindra
 J178	ada pak firman subagyo dari fraksi partai golkar
-J179	ada pak toto daryanto dari fraksi partai amanat nasional 
-J180	marwah badan legislasi sebagai center of law tidak boleh di hilangkan 
+J179	ada pak toto daryanto dari fraksi partai amanat nasional
+J180	marwah badan legislasi sebagai center of law tidak boleh di hilangkan
 J181	kepada siapakah kewenangan itu diberikan
 J182	kepada semua alat kelengkapan dewan
-J183	tak terkecuali adalah kepada badan legislasi 
+J183	tak terkecuali adalah kepada badan legislasi
 J184	setiap komisi tetap mempunyai kewenangan untuk menyusun naskah akademik dan rancangan undang-undang
-J185	mengapa dpr tidak mampu menyelesaikan daftar inventarisasi ruu 
-J186	rancangan undang-undang ada di setiap prolegnas tahunan 
-J187	karena ini menyangkut masalah yang subtansial sebaiknya semua anggota dikasih tahu dulu masalahnya ini yang akan di rubah 
+J185	mengapa dpr tidak mampu menyelesaikan daftar inventarisasi ruu
+J186	rancangan undang-undang ada di setiap prolegnas tahunan
+J187	karena ini menyangkut masalah yang subtansial sebaiknya semua anggota dikasih tahu dulu masalahnya ini yang akan di rubah
 J188	jangan tiba-tiba lalu di sini di voting
-J189	boleh jadi hak-hak anggota dewan secara konstitusional bisa hilang diambil alih oleh lembaga yang tadi itu 
-J190	oleh karena itu saya usulkan supaya ditunda saja dulu ini 
+J189	boleh jadi hak-hak anggota dewan secara konstitusional bisa hilang diambil alih oleh lembaga yang tadi itu
+J190	oleh karena itu saya usulkan supaya ditunda saja dulu ini
 J191	kepada anggota supaya dikasih tahu secara jelas apa arah dari perubahan ini
-J192	jangan sampai kita voting  tidak tahu apa yang mau di voting
+J192	jangan sampai kita voting tidak tahu apa yang mau di voting
 J193	demikian pendapat saya pimpinan
 J194	izin berpendapat sebentar bapak ibu sekalian
 J195	karena ini sebentar lagi maghrib dan mungkin juga ada yang belum sholat ashar
-J196	ya sebentar interupsi dulu  silakan yang interupsi
-J197	apa artinya kita ribut-ribut 
+J196	ya sebentar interupsi dulu silakan yang interupsi
+J197	apa artinya kita ribut-ribut
 J198	toh ada tiga puluh tiga kementerian dibagi habis juga kita punya pekerjaan banyak
-J199	baik-baik 
-J200	sebentar-sebentar 
+J199	baik-baik
+J200	sebentar-sebentar
 J201	sebelum lebih jauh
 J202	setuju
 J203	ini bukan masalah lobby atau tidak lobby
 J204	tapi soal bagaimana dengan pemerintah
-J205	bagusnya itu saja lobby saya yakin juga nggak ketemu 
+J205	bagusnya itu saja lobby saya yakin juga nggak ketemu
 J206	apanya yang mau dilobby
 J207	ini payah ini
 J208	bisa interupsi sebentar saja untuk memecahkan masalah ini
 J209	pimpinan ini nggak jelas pimpinan
-J210	saya ingin mengusulkan pimpinan 
+J210	saya ingin mengusulkan pimpinan
 J211	kita ikuti patokan suka-suka pimpinan
 J212	ini kan masih ada ketidaksamaan kita bicarakan
 J213	yang mana
 J214	pimpinan harus bisa memutuskan rasionalitas dari masing-masing komisi
-J215	kita harus yakini bahwa tidak mungkin satu komisi hanya satu mitra 
-J216	baik bapak ibu sekalian yang saya hormati dengan demikian selesailah rapat paripurna hari ini 
+J215	kita harus yakini bahwa tidak mungkin satu komisi hanya satu mitra
+J216	baik bapak ibu sekalian yang saya hormati dengan demikian selesailah rapat paripurna hari ini
 J217	selaku pimpinan rapat saya mengucapkan terima kasih kepada yang terhormat para anggota dewan dan hadirin sekalian
-J218	atas ketekunan dan kesabaran dalam mengikuti rapat paripurna hari ini 
-J219	dengan seijin dewan perkenan  rapat kami tutup
+J218	atas ketekunan dan kesabaran dalam mengikuti rapat paripurna hari ini
+J219	dengan seijin dewan perkenan rapat kami tutup
 J220	dengan mengucapkan waflahumuafiq ila afwamithariq
 J221	wasalamu'alaikum warahmatullahi wabarakatuh
-J222	mohon perhatian rekan-rekan sekalian 
+J222	mohon perhatian rekan-rekan sekalian
 J223	mohon duduk karena paripurna belum kita tutup
-J224	kami persilakan pak akbar faisal untuk melanjutkan 
+J224	kami persilakan pak akbar faisal untuk melanjutkan
 J225	rapat kita tutup dan kita ucapkan alhamdulillaahirabbil'alamiin
 J226	hadirin dan hadirat yang sangat kami hormati
 J227	mari kita sejenak menundukkan kepala bersama-sama
@@ -2929,14 +2929,14 @@ J241	allahuma sholi wasalim alaihi
 J242	ya allah ya syukur
 J243	dalam suasana penuh hikmat ini kami memanjatkan rasa syukur sedalam-dalamnya
 J244	ya allah ya rahman ya rahim
-J245	anugerahkanlah kearifan kecerdasan dan kepekaan yang lebih kepada para hambamu yang baru saja dilantik 
-J246	dihadapan mereka terbentang sejumlah tantangan 
+J245	anugerahkanlah kearifan kecerdasan dan kepekaan yang lebih kepada para hambamu yang baru saja dilantik
+J246	dihadapan mereka terbentang sejumlah tantangan
 J247	ya allah ya qowi ya mathin
-J248	engkau maha mengetahui kekhususan dan kelemahan kami sebagai manusia biasa 
-J249	engkau juga maha mengetahui rahasia-rahasia kami 
-J250	ampunilah seluruh dosa-dosa kami 
-J251	tutupilah seluruh aib-aib kami 
-J252	putihkanlah seluruh kegelapan masa lampau kami dengan kasih sayang-mu 
+J248	engkau maha mengetahui kekhususan dan kelemahan kami sebagai manusia biasa
+J249	engkau juga maha mengetahui rahasia-rahasia kami
+J250	ampunilah seluruh dosa-dosa kami
+J251	tutupilah seluruh aib-aib kami
+J252	putihkanlah seluruh kegelapan masa lampau kami dengan kasih sayang-mu
 J253	pada akhirnya kami semua menyerahkan diri ini kepada-mu sepenuhnya
 J254	tuntunlah bimbinglah dan bantulah kami
 J255	amin ya robbal alamin
@@ -2962,7 +2962,7 @@ J274	orangtua sering melakukan kekerasan verbal atau verbalisme
 J275	untuk bisa keluar masuk penjara gayus tambunan disinyalir memberi sangu untuk sipir
 J276	wajah radio cakrawala di mata para fannys sudah berubah
 J277	dia tersesat ke kloter lain
-J278	tiga tahun  lamanya dia bekerja sebagai pelayan atau pegawai restoran
+J278	tiga tahun lamanya dia bekerja sebagai pelayan atau pegawai restoran
 J279	sepuluh truk digunakan untuk mengangkut makanan dan ponco
 J280	burma melakukan re-ekspor rokok dari indonesia
 J281	vegetasi dilakukan di tanah gocap di ifar gunung
@@ -2977,7 +2977,7 @@ J289	ahok latihan nyanyi hujan gerimis aje
 J290	emil elestianto dardak mengaku tidak memanfaatkan popularitas arumi bachsin untuk mendulang suara
 J291	emil disebut sebagai calon yang paling disukai oleh warga jakarta dibandingkan basuki tjahaja purnama
 J292	yoyok menggandeng ombudsman ri untuk mengajarinya cara memberikan pelayanan publik yang baik
-J293	jajaran polresta tangerang menggelar rezia besar-besaran di kabupaten tangerang 
+J293	jajaran polresta tangerang menggelar rezia besar-besaran di kabupaten tangerang
 J294	kegagalan riset jangan dipandang sebagai kerugian negara
 J295	komisi sepuluh diminta perjuangkan pengangkatan guru honorer
 J296	ugm dan itb membutuhkan sdm yang penuhi rasio ideal universitas kelas dunia
