@@ -1,5 +1,11 @@
 import os
 
+monophones = []
+
+def add_to_monophones(phone):
+    if phone not in monophones:
+        monophones.append(phone)
+
 def f(x):
     return {
         'ai': 'ai',
@@ -21,21 +27,28 @@ def transform_to_phonem(word):
             phone = f(word[idx:idx+2])
             if phone != 'a':
                 phonems += phone + ' '
+                add_to_monophones(phone)
                 idx += 1
             else:
                 if word[idx] == 'v':
                     phonems += 'f '
+                    add_to_monophones('f')
                 elif word[idx] == 'q':
                     phonems += 'k '
+                    add_to_monophones('k')
                 elif word[idx] == 'x':
                     if idx == 0:
                         phonems += 's '
+                        add_to_monophones('s')
                     else:
                         phonems += 'k s '
+                        add_to_monophones('k')
+                        add_to_monophones('s')
                 elif word[idx] == '-' or word[idx] == '\'':
                     phonems += ''
                 else:
                     phonems += word[idx] + ' '
+                    add_to_monophones(word[idx])
         else:
             phonems += word[idx]
         idx += 1
@@ -75,5 +88,12 @@ with open('wordlist') as myfile:
         out.write('\t')
         out.write(transform_to_phonem(read_list[line]))
         out.write('\n')
+
+out.close()
+
+out = open('monophones0', 'w')
+for phone in monophones:
+    out.write(phone)
+    out.write('\n')
 
 out.close()
