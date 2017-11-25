@@ -1,0 +1,3 @@
+ERROR: m_chkparam: cannot access sample.dict
+ERROR: m_chkparam: cannot access sample.dfa
+ERROR: m_chkparam: could not pass parameter check
