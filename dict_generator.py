@@ -50,7 +50,25 @@ def transform_to_phonem(word):
                     phonems += word[idx] + ' '
                     add_to_monophones(word[idx])
         else:
-            phonems += word[idx]
+            if word[idx] == 'v':
+                phonems += 'f '
+                add_to_monophones('f')
+            elif word[idx] == 'q':
+                phonems += 'k '
+                add_to_monophones('k')
+            elif word[idx] == 'x':
+                if idx == 0:
+                    phonems += 's '
+                    add_to_monophones('s')
+                else:
+                    phonems += 'k s '
+                    add_to_monophones('k')
+                    add_to_monophones('s')
+            elif word[idx] == '-' or word[idx] == '\'':
+                phonems += ''
+            else:
+                phonems += word[idx] + ' '
+                add_to_monophones(word[idx])
         idx += 1
     return phonems
 
