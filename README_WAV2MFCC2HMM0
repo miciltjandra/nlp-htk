@@ -1,0 +1,19 @@
+Extract all files to all_set folder using copy paste and 'extract_files_script'
+
+Rename all files using rename.py
+
+Using 'wavconfig' & 'codetr.scp' file in 'all_set' folder, use this command to convert those wavs to mfcs
+* edit the 'codetr.scp' necessarily
+
+	HCopy -T 1 -C wavconfig -S codetr.scp
+
+Move/copy all mfcs to another folder 'all_mfc'
+
+Don't forget to create a folder 'hmm0' inside folder all_mfc
+
+Using 'config' & 'train.scp' & 'proto' file in 'all_mfc' folder, use this command to create proto in hmm0
+* edit the 'train.scp' necessarily
+
+	HCompV -C config -f 0.01 -m -S train.scp -M hmm0 proto
+
+? Create 'macros' file by combining header of 'proto' & 'vFloors'
