@@ -1,0 +1,5 @@
+xcopy /s "essentials" "1"
+xcopy /s "essentials" "2"
+xcopy /s "essentials" "3"
+xcopy /s "essentials" "4"
+xcopy /s "essentials" "5"
